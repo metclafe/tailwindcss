@@ -1,0 +1,13 @@
+span.ml-3 {
+    font-size: 15px;
+}
+
+.ph {
+    font-size: 1.25rem;
+}
+
+@media (max-width: 1023px) {
+    .sidebar-closed {
+        transform: translateX(-100%);
+    }
+}
